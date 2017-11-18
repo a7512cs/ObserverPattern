@@ -7,6 +7,9 @@ Observer Pattern  觀察者模式
 
 實作：
 Customer訂閱報紙時，將Customer加入報社ISubject中，當報社要通知大家時，從listObservers中的IObserver每個人發送通知。
+listObservers可以存於ISubject中 也可存於NewspaperOffice中
+Customer也可儲存NewspaperOffice的資料於Customer中，視需求而定，但不影響觀察者模式的架構。
+其精神主要為NewspaperOffice通知listObservers中的每個Customer，且主程式不需更改，只需調整listObservers中的Customer數量，和增加Customer的顯示實作。
 
 用途：
 發送通知時、股票漲跌通知、按鈕按下 找按鈕要去做什麼實作功能、滑鼠按下 通知滑鼠事件 判斷哪個功能要執行
