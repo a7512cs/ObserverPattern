@@ -14,4 +14,14 @@ Customer¤]¥iÀx¦sNewspaperOfficeªº¸ê®Æ©óCustomer¤¤¡Aµø»Ý¨D¦Ó©w¡A¦ý¤£¼vÅTÆ[¹îªÌ¼Ò¦
 ¥Î³~¡G
 µo°e³qª¾®É¡BªÑ²¼º¦¶^³qª¾¡B«ö¶s«ö¤U §ä«ö¶s­n¥h°µ¤°»ò¹ê§@¥\¯à¡B·Æ¹««ö¤U ³qª¾·Æ¹«¨Æ¥ó §PÂ_­þ­Ó¥\¯à­n°õ¦æ
 ·í¨ä¤¤¤@­Óª«¥óªºÅÜ§ó·|¼vÅT¨ä¥Lª«¥ó¡A«o¤S¤£ª¾¹D¦h¤Öª«¥ó¥²¶·³Q¦P®ÉÅÜ§ó®É¡C
-MVC(model/view/control)¬OObserverªº¤@­Ó¹ê¨Ò
+MVC(Model/View/Controller)¬OObserverªº¤@­Ó¹ê¨Ò¡G
+Subject´N¬OModel¡A¦ÓCustomer´N¬OView¡AController¥R·í¨âªÌ¤§¶¡ªº¤¤¤¶ªÌ(Mediator)¡C
+·íModelªº¼Æ¾Úµo¥Í§ïÅÜ®É¡AView±N¦Û°Ê§ïÅÜ¨äÅã¥Ü¤º®e¡C
+
+½d¨Ò¡G
+¹q¤l°Ó°Èºô¯¸¥i¥H¦b°õ¦æµo°e¾Þ§@«áµ¹¥Î¤á¦h­Óµo°e°Ó«~¥´§é«H®§
+¬Y¹Î¶¤¾Ô°«¹CÀ¸¤¤¬Y¶¤¤ÍÄë¬¹±Nµ¹©Ò¦³¦¨­û´£¥Ü
+
+
+¯ÊÂI¡G
+¦pªG¦³«Ü¦hCustomerªº¸Ü¡A±N©Ò¦³ªºCustomer³£³qª¾¨ì·|ªá¶O«Ü¦h®É¶¡¡C
