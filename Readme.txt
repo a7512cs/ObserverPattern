@@ -12,6 +12,7 @@ Customer¤]¥iÀx¦sNewspaperOfficeªº¸ê®Æ©óCustomer¤¤¡Aµø»Ý¨D¦Ó©w¡A¦ý¤£¼vÅTÆ[¹îªÌ¼Ò¦
 ¨äºë¯«¥D­n¬°NewspaperOffice³qª¾listObservers¤¤ªº¨C­ÓCustomer¡A¥B¥Dµ{¦¡¤£»Ý§ó§ï¡A¥u»Ý½Õ¾ãlistObservers¤¤ªºCustomer¼Æ¶q¡A©M¼W¥[CustomerªºUpdate¹ê§@¡C
 
 ¥Î³~¡G
+¨Æ¥ó¤ÀµoºÞ²z¾¹¡C·í¥Î¤á¶i¦æÄ²ºN¡B«öÁäµ¥¿é¤J«á¡A¿é¤JºÞ²zÃþ±N¨Æ¥ó¤Àµoµ¹²K¥[¤F¨Æ¥óºÊÅ¥ªºª«¥ó¡C
 µo°e³qª¾®É¡BªÑ²¼º¦¶^³qª¾¡B«ö¶s«ö¤U §ä«ö¶s­n¥h°µ¤°»ò¹ê§@¥\¯à¡B·Æ¹««ö¤U ³qª¾·Æ¹«¨Æ¥ó §PÂ_­þ­Ó¥\¯à­n°õ¦æ
 ·í¨ä¤¤¤@­Óª«¥óªºÅÜ§ó·|¼vÅT¨ä¥Lª«¥ó¡A«o¤S¤£ª¾¹D¦h¤Öª«¥ó¥²¶·³Q¦P®ÉÅÜ§ó®É¡C
 MVC(Model/View/Controller)¬OObserverªº¤@­Ó¹ê¨Ò¡G
